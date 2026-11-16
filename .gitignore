@@ -4,3 +4,8 @@ __pycache__/
 .streamlit/
 data/windows_security_bookmark.json
 output/
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
